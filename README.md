@@ -20,4 +20,4 @@ If you want batch mode, use this instead, but fill in the gaps:
 
  * It adds UTF-8 encoding and Java 8 support to your pom (zero warnings first build)
  * It adds better test libraries (updated JUnit plus AssertJ)
- * IT adds a gitignore (hurray!)
+ * It adds a gitignore (hurray!)
